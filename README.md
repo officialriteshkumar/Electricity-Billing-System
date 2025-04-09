@@ -1,2 +1,1 @@
-# Electricity-Billing-System
-The Electricity Billing System is a computerized solution designed to automate electricity bill generation, ensuring accuracy, efficiency, and ease of use. This system eliminates manual errors, speeds up calculations, and provides consumers with a seamless billing experience. 
+This project aims to develop an Electricity Billing System to automate the process of generating electricity bills for consumers. Through a user-friendly interface, the system allows administrators to manage customer details and input monthly meter readings. Based on the units consumed, the system automatically calculates the total bill and stores the records securely.
